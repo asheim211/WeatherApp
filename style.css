@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.search-container {
+  margin-top: 20px;
+}
+
+#weatherInfo {
+  margin-top: 20px;
+}
